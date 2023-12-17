@@ -1,2 +1,2 @@
-# Wikipedia-Clone-LP
+# MiniPedia
 Wikipedia landing page clone
